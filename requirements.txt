@@ -1,0 +1,22 @@
+# Core dependencies
+numpy>=1.19.5
+opencv-python
+matplotlib
+pillow
+PyYAML>=5.3
+tqdm
+seaborn
+pandas
+
+torch>=1.8.0
+torchvision
+
+ultralytics>=8.0.0
+
+
+# SORT tracking dependencies
+filterpy
+scipy
+scikit-image
+
+pprintpp
